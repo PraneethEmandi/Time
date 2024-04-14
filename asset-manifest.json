@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Time/static/css/main.e8fa954f.css",
+    "main.js": "/Time/static/js/main.e616756a.js",
+    "static/js/787.305dadeb.chunk.js": "/Time/static/js/787.305dadeb.chunk.js",
+    "static/media/image-jeremy.png": "/Time/static/media/image-jeremy.71cd41f11bee24c1ded3.png",
+    "static/media/icon-exercise.svg": "/Time/static/media/icon-exercise.3e7b028289414a13231843557ae074f7.svg",
+    "static/media/icon-social.svg": "/Time/static/media/icon-social.64be0c18d185740e487b8efaebb31183.svg",
+    "static/media/icon-study.svg": "/Time/static/media/icon-study.1f0a65e457bfa63988275be35e86407e.svg",
+    "static/media/icon-play.svg": "/Time/static/media/icon-play.e8d4e5699b0e441f8baf9e7692e15167.svg",
+    "index.html": "/Time/index.html",
+    "static/media/icon-work.svg": "/Time/static/media/icon-work.a3f124e593ab45ba795f6a068fe710ce.svg",
+    "static/media/icon-self-care.svg": "/Time/static/media/icon-self-care.a161aff589038fc7ce09296497d4cd62.svg",
+    "main.e8fa954f.css.map": "/Time/static/css/main.e8fa954f.css.map",
+    "main.e616756a.js.map": "/Time/static/js/main.e616756a.js.map",
+    "787.305dadeb.chunk.js.map": "/Time/static/js/787.305dadeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8fa954f.css",
+    "static/js/main.e616756a.js"
+  ]
+}
